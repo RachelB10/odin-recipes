@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  margin: 20px 30%;
+}
+
+.recipeList {
+  border: 1px solid black;
+  text-align: left;
+}
