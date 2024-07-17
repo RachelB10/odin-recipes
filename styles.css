@@ -1,9 +1,11 @@
 body {
   text-align: center;
   margin: 20px 30%;
+  background-color: #C6B9FF;
 }
 
 .recipeList {
   border: 1px solid black;
   text-align: left;
+  background-color: white;
 }
