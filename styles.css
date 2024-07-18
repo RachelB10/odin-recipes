@@ -1,3 +1,7 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .odinRecipes {
   text-align: center;
   margin: 20px 30%;
@@ -8,4 +12,8 @@
   border: 1px solid black;
   text-align: left;
   background-color: white;
+}
+
+h1 {
+  text-align: center;
 }
