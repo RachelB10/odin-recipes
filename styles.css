@@ -44,8 +44,6 @@ h1 {
 .box {
   border: 1px solid black;
   padding: 10px;
-  height: 428px;
-  width: 330px;
   position: relative;
   left: 430px; 
 }
@@ -57,4 +55,9 @@ h1 {
   top: 30px;
   height: 320px;
   width: 760px;
+}
+
+.box.r1 {
+  height: 428px;
+  width: 330px;
 }
