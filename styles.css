@@ -17,3 +17,14 @@ body {
 h1 {
   text-align: center;
 }
+
+.recipe {
+  border: 2px solid black;
+  background-color: white;
+  position: relative;
+  height: 825px;
+  width: 785px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 35px;
+}
