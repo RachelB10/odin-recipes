@@ -45,7 +45,6 @@ h1 {
   border: 1px solid black;
   padding: 10px;
   position: relative;
-  left: 430px; 
 }
 
 .box2 {
@@ -60,6 +59,7 @@ h1 {
 .box.r1 {
   height: 428px;
   width: 330px;
+  left: 430px; 
 }
 
 .box.r2 {
