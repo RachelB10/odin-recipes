@@ -43,3 +43,12 @@ h1 {
   position: relative;
   left: 430px; 
 }
+
+.box2 {
+  border: 1px solid black;
+  padding: 10px;
+  position: relative;
+  top: 30px;
+  height: 320px;
+  width: 760px;
+}
