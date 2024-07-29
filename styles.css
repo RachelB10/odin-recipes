@@ -28,3 +28,9 @@ h1 {
   margin-right: auto;
   padding: 35px;
 }
+
+#lemonPepperChicken {
+  border: 1px solid black;
+  position: absolute;
+  top: 35px;
+}
