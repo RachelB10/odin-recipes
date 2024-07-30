@@ -9,9 +9,11 @@ body {
 }
 
 .recipeList {
-  border: 1px solid black;
+  border: 2px solid black;
   text-align: left;
   background-color: white;
+  height: 300px;
+  font-size: 19px;
 }
 
 h1 {
