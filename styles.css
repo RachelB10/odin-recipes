@@ -14,10 +14,13 @@ body {
   background-color: white;
   height: 300px;
   font-size: 19px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 h1 {
   text-align: center;
+  border-bottom: 2px solid black;
 }
 
 .main {
