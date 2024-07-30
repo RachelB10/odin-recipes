@@ -28,6 +28,15 @@ h1 {
   border-bottom: 2px solid black;
 }
 
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color: purple;
+}
+
 .main {
   background-image: url(https://st.depositphotos.com/1899467/1873/i/450/depositphotos_18736747-Dark-wood-texture-background.jpg);
   background-size: cover;
