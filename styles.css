@@ -95,3 +95,9 @@ h1 {
   position: absolute;
   top: 35px;
 }
+
+.box.r3 {
+  height: 375px;
+  width: 330px;
+  left: 370px;
+}
